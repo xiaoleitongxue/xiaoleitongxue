@@ -1,16 +1,4 @@
 ### Hi I am lilei 👋
-
-<!--
-**xiaoleitongxue/xiaoleitongxue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
-
-- 🏫 I Graduated from Yunnan University
-- 🌱 I come from Yunnan province,China. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🏫 I graduated from Yunnan University
+- 🌱 I come from Yunnan Province, China. 
 - 📫 How to reach me: me.lilei@foxmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
